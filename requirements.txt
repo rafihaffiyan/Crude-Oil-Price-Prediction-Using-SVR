@@ -1,2 +1,3 @@
 yfinance
 scikit-learn
+plotly_express
